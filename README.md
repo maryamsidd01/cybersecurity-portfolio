@@ -8,9 +8,13 @@ Welcome to my cybersecurity portfolio! Here, you will find my projects related t
 
 ## 🚀 Featured Projects
 
-### 🛡️ [Log Analysis with Splunk](https://github.com/maryam-infosec/log-analysis-splunk)
-- Used Splunk to analyze Windows event logs.
-- Detected brute-force attacks and failed login attempts.
+### 🛡️ [Log Analysis with Splunk](./projects/log-analysis-splunk/README.md)
+- **Tools Used:** Splunk, Windows Event Logs, Apache Logs, PowerShell, MITRE ATT&CK  
+- **Description:** Analyzed security logs to detect **brute-force attacks, unauthorized admin access, and web anomalies** using Splunk queries.  
+- **Key Features:**
+  - ✅ Created **SIEM Dashboards** for real-time monitoring
+  - ✅ Developed **Custom SPL Queries** for log analysis
+  - ✅ Set up **Automated Alerts** for security events
 
 ### 🌐 [Wireshark Network Traffic Analysis](https://github.com/maryam-infosec/wireshark-traffic-analysis)
 - Captured and analyzed network packets using Wireshark.
